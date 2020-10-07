@@ -1,0 +1,19 @@
+{
+  "name": "random-letters",
+  "version": "1.0.0",
+  "description": "Create random but unique series of letters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqqmuT/random-letters.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iqqmuT/random-letters/issues"
+  },
+  "homepage": "https://github.com/iqqmuT/random-letters#readme"
+}
